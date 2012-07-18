@@ -1,6 +1,0 @@
-# view AndroidManifest.xml #generated:16
--keep class com.sample.Greeting { <init>(...); }
-
-# view AndroidManifest.xml #generated:8
--keep class com.sample.Main { <init>(...); }
-
